@@ -58,6 +58,7 @@ namespace EjemploProductos
             Form2 form2 = new Form2();
             form2.Show();
             form2.listaProductos2 = ListaProductos;
+            //ajajajja probando a ver que pex
         }
 
         private void mtxtNombre_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
